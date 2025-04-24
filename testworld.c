@@ -2,7 +2,11 @@
 
 int main(){
 
- printf("hello world!");
-
+ int  a,b,c;
+ a=1;
+ b=2;
+ c=a+b;
+ printf("%d plus %d is %d",a,b,c);
+ 
 
 }
